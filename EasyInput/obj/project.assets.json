@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chaitanya\\Documents\\Backup\\Java\\Easy-Input-CSharp\\EasyInput\\EasyInput.csproj",
+      "projectUniqueName": "C:\\Users\\Chaitanya\\Documents\\GitHub\\Easy-Input-CSharp\\EasyInput\\EasyInput.csproj",
       "projectName": "EasyInput",
-      "projectPath": "C:\\Users\\Chaitanya\\Documents\\Backup\\Java\\Easy-Input-CSharp\\EasyInput\\EasyInput.csproj",
+      "projectPath": "C:\\Users\\Chaitanya\\Documents\\GitHub\\Easy-Input-CSharp\\EasyInput\\EasyInput.csproj",
       "packagesPath": "C:\\Users\\Chaitanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chaitanya\\Documents\\Backup\\Java\\Easy-Input-CSharp\\EasyInput\\obj\\",
+      "outputPath": "C:\\Users\\Chaitanya\\Documents\\GitHub\\Easy-Input-CSharp\\EasyInput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chaitanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
