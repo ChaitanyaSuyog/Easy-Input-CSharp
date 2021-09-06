@@ -8,7 +8,7 @@ namespace EasyInput
     //Suppress "Method not used" warnings.
     [SuppressMessage("ReSharper", "UnusedMember.Global")]
     
-    class Input
+    class ControlledInput
     {
         public static string ReadString()
         {
