@@ -83,7 +83,7 @@ namespace EasyInput
                 return Convert.ToBoolean(inputGiven);
             }
 
-            throw new Exception("Cannot covert parameter str from " + str.GetType() + " to string");
+            throw new Exception("Cannot convert parameter str from " + str.GetType() + " to string");
         }
     }
 }
