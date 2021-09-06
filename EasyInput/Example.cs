@@ -6,8 +6,12 @@ namespace EasyInput
     {
         static void Main()
         {
-            var input = EasyInput.InputLine("How's the weather today? ");
-            Console.WriteLine(input);
+            var easyInput = EasyInput.InputLine("How's the weather today? ");
+            Console.WriteLine(easyInput);
+
+            Console.WriteLine("How many years old is the Earth? ");
+            var controlledInput = ControlledInput.ReadLong();
+            Console.WriteLine(controlledInput);
         }
     }
 }
