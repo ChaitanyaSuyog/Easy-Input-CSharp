@@ -24,7 +24,7 @@ namespace EasyInput
             var inputGivenFloat = typeof(float);
             var inputGivenDecimal = typeof(decimal);
             var inputGivenBoolean = typeof(bool);
-            
+
             
             if (inputGivenType == inputGivenString)
             {
