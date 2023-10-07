@@ -1,8 +1,8 @@
 # Easy-Input-CSharp
-A program for more "efficient" input in C#.
+A program for more "efficient" input in C#. <i>(This is absolutely redundant I just did something for fun)</i>
 <br>
 <br>
-While I was experimenting in the language, I found that the input system was pretty inefficient (no offense 😅) compared to Java's Scanner class. So for my first program in C# - I present - an easy input system!
+While I was experimenting in the language, I found that the input system was pretty inefficient (no offense 😅) compared to Java's Scanner class <i>(because to be honest I have no clue about any language other than Java)</i>. So for my first program in C# - I present - an easy input system!
 <br>
 <br>
 <b>An Overview of the Files:</b>
